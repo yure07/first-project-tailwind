@@ -12,10 +12,14 @@ module.exports = {
         'white': '#ffffff',
         'dark-grayish-blue': '#6B7189',
         'dark-cyan' :'#3C8067',
-        'dark-dark-cyan': '#2C5D4B'
+        'dark-dark-cyan': '#264B3D'
       },
       letterSpacing:{
-        'widest': '.55em'
+        'widest': '.55em',
+        'wider': '.25em'
+      },
+      spacing:{
+        '75': '18.8rem'
       }
     },
   },
